@@ -2083,8 +2083,75 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ]
     }
+  },
+
+
+
+  "4th Year": {
+    "CSE":
+    {
+      "Cloud computing": [
+        { name: "Syllabus", ...driveLinks("1zEMR14WIRN5pq2h2b5iE0U2B7SF9CQYf") },
+        { name: "Unit 1 (Part 1)Introduction to Cloud Computing", ...driveLinks("1J-BnnfBYdBM1PsgGWInofxMoiNg0inzA") },
+        { name: "Unit 1(Part 2)Virtualization", ...driveLinks("1jmBhf3taQPjfPjgQZl13ZuySTshcL1Ey") },
+        { name: "Unit 2 (Cloud Platform Architecture)", ...driveLinks("1MTyT2-73CXs5ehcH0AILXizCRD_7qPiK") },
+        { name: "Unit 3 (Cloud Programming and software development)", ...driveLinks("1W-6-qvZ8u1yJ9SHW45fDcrkf74t-qBWn") },
+        { name: "Unit 4(Material)", ...driveLinks("1Ow1HpBOZnmf-2o0YYsDQJB8vHg7VhJST") },
+        { name: "2 Marks", ...driveLinks("1bnBNXkT3rwgtqw94CYZ_gwujROMVD5Dh") },
+        { name: "Mid-I(Question Bank)", ...driveLinks("1dq5pq1Wz6tNKQru4swWhgDgLqpF8_aQy") }
+      ],
+      "Disaster Management": [
+        { name: "Syllabus", ...driveLinks("16que0-4ANcOoaSOl5tvwf87hDYY_l_L3") },
+        { name: "Unit 1(Introduction)ppt", ...driveLinks("17TjtDIGX7UuXcFxYl1ml4Qb6xYSuyKcI") },
+        { name: "Types of Disasters ppt", ...driveLinks("14LO_1UMeRS8PTle-x5BEPKCngUagp4bp") },
+        { name: "Unit 1 (Disasters Material)", ...driveLinks("1AEjEeSBISAtbzdtyFbAU9M7AYP9bq-d5") },
+        { name: "Unit 2(Hydrolodical Hazards)", ...driveLinks("1DdY0PCVOeWQtrO8CVuxtffYDQ3peC8bu") },
+        { name: "Unit 3(Geological Hazards)", ...driveLinks("1tQMNo3a5iOstv5d043uNkiALPV7M5u-c") },
+        { name: "Mid-I(Question Bank)", ...driveLinks("1lPI0xLoQ_e0QJ1vzXDMefwZhgO42unCE") },
+        { name: "Mid-I(Question Bank Answers)", ...driveLinks("1VuBDQH2BoXgqMlB6N_aH4Vpfm0auFl_a") }
+      ],
+      "English Communicative":[
+        { name: "Unit 1", ...driveLinks("1Fgd4sjizfjGN-iUX8VVIfnX8Pm4sf2Rx") },
+        { name: "Mid-I(Question Bank)", ...driveLinks("1cJkliYotFkUU8wbUSTRVV5XegzVtPs5G") },
+        { name: "Mid-I(2 Marks)", ...driveLinks("1Syul4v5mHVOAYIPxrusx2tEH1G1wuWW2") },
+        { name: "Mid-I(Material)", ...driveLinks("1pxIe5A8LW2NqOOHmnw4eOWhUa362hQpM") }
+      ],
+      // "ERP-II": [
+      //   { name: "Unit 1(Notes)", ...driveLinks("1cevwcwis71PXCcqC1eG7H1luMZguxDyK") },
+      //   { name: "Unit 2(Notes)", ...driveLinks("1LqJ-CigGcE1ynDOiUetWEuSf_7YsZMrm") },
+      //   { name: "Class Diagrams", ...driveLinks("1IVFF0a2sqQ7y5zKNsYZtbvXpsrQbw1dJ") },
+      //   { name: "Classes", ...driveLinks("1mLZEY8kiTKrtIJwPcejf8nyLj2_UlTpO") },
+      //   { name: "Packages", ...driveLinks("1E-NdZ0sBdslpDayTzSreGxijpuJhdnj_") }
+      // ],
+      "Image Processing Techniques": [
+        { name: "Syllabus", ...driveLinks("1jjAphAKv44-1sfQ4xGTtgql48jO-kte7") },
+        { name: "Unit 1(Digital Image Fundamentails)", ...driveLinks("1_er83nWmKXlkHxSld_XFEEfZOpmAaaHY") },
+        { name: "Unit 1(Handwritten Q/A)", ...driveLinks("1ISdjTFlMY_csDBdtm30DPLaYIVD0dzT2") },
+        { name: "Unit 2(Image Enhancement)", ...driveLinks("1USHr6sGVoOxtYhhQnYiFhXLG2mKkEdyF") },
+        { name: "Unit 3(Handwritten Q/A)", ...driveLinks("1rtNa4Qiv8vcL7SpqrofCT03OU_lcKT4a") },   
+        { name: "Mid-I(Question Bank)", ...driveLinks("1Q9GI_Y9M62zb0N5ZK3-TtZM7xrmyekBr") },   
+        { name: "Mid-I(2 Marks)", ...driveLinks("1I8a9tkljqh4TvIzqXTOVD5IrRbQo6b4W") },   
+         ],
+         "Management Science": [
+        { name: "Syllabus", ...driveLinks("1EV-rafuOAlzapvAcbWUm1kzKurV5zVRv") },
+        { name: "MID-I(Question Bank)", ...driveLinks("1EV-rafuOAlzapvAcbWUm1kzKurV5zVRv") },
+        { name: "MID-I(2 Marks)", ...driveLinks("1EV-rafuOAlzapvAcbWUm1kzKurV5zVRv") },
+        { name: "Unit 1(Notes)", ...driveLinks("1RHT5M3ElbEwsDpdGRacFZuQomSqnaPTn") },
+        { name: "Unit 1(ppt)", ...driveLinks("1GITvi9fPFNzGWTi45tmxJvPptbbzyOo2") }
+         ],
+        "Introduction to Data Science": [
+        { name: "Syllabus", ...driveLinks("1VlwsY-2Z_i8oDahG3JUL2TG1dvEKwur1") },
+        { name: "Unit 1(Material)", ...driveLinks("1BiTeOxtVaLUYw-_GEAQaVN_YsxP0Hv8o") },
+        { name: "Unit 1(Additional Material)", ...driveLinks("1dADS-w_v8aIZxeuJD0lAvAfZ3el3zbvM") },
+        { name: "Unit 1(ppt version)", ...driveLinks("19VjkwgAxv6OO9_HHkQM4JaU3695PJ07l") },
+        { name: "Unit 2(Machine Learning in Data Science)Material", ...driveLinks("1-s4oDQAK7fhsKf2UZbTbKHtY0XWD-NoR") },   
+        { name: "Unit 2(Machine Learning in Data Science)Additional Material", ...driveLinks("1qgaAp5RyERNJkXs2wmsfSTPwrAH49NDn") },  
+        { name: "Unit 3 NoSQL Movement", ...driveLinks("1TOldDX5xskRtr2_ijJL_PBUbmYmGt1rF") },  
+        { name: "Mid-I(Question Bank)", ...driveLinks("1rl0hPMDt5zHmDMdA5EAeFWeJ0Ppd81__") }
+         ]
+    }
   }
-};
+  }
 
 
 // ----- DOM Elements -----
@@ -2293,7 +2360,7 @@ const handleFormSubmit = (event) => {
     if(!userMessage || document.body.classList.contains("bot-responding")) return;
 
     promptInput.value = "";
-    userData.message = userMessage + "in 10 lines";
+    userData.message = userMessage + "in 12 lines";
     console.log(userData.message);
     document.body.classList.add("bot-responding","chats-active");
     fileUploadWrapper.classList.remove("active", "img-attached", "file-attached");
