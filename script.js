@@ -2273,12 +2273,12 @@ const generateResponce = async(botMsgDiv)=>{
         const responceText = data.candidates[0].content.parts[0].text.replace(/\*\*([^*]+)\*\*/g,"$1").trim(); //remove ** from text
         typingEffect(responceText,textElement,botMsgDiv);
         chatHistory.push({role:"model", parts:[{text:responceText}]});
+        scrollToBottom();
         //push bot responce to chat history
         // textElement.textContent = responceText;
     }catch (error) {
     textElement.style.color = "#d62939";
     textElement.textContent = error.name === "AbortError" ? "⚠️ Responce aborted by user" : "⚠️ Error: " + error.message;
-   // console.error("Error:", error);
     botMsgDiv.classList.remove("loading");
     document.body.classList.remove("bot-responding");
     scrollToBottom();

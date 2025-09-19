@@ -145,12 +145,21 @@ body {
   background-color: var(--primary-color);
 }
 
-.container {
-  padding: 32px 0 60px;
+/* .container {
+ padding: 32px 0 60px;
   overflow: hidden;
   max-height: calc(100vh - 127px);
   scrollbar-color: (var(--scrollbar-color) transparent);
+} */
+
+.container {
+  padding: 32px 0 60px;
+  overflow-y: auto;   /* instead of hidden */
+  max-height: none;   /* remove the viewport clipping */
 }
+
+
+
 
 .container :where(.app-header, .suggestions, .prompt-wrapper, .disclaimer-text, .message) {
   margin: 0 auto;
