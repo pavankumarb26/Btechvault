@@ -2211,7 +2211,7 @@ let userMessage = "";
 const userData = {
     message: "",
     file: {}
-};
+  };
 const chatHistory = [];
 //function to create message elements
 const createMsgElement = (content, ...classes) => {
@@ -2219,11 +2219,11 @@ const createMsgElement = (content, ...classes) => {
     div.classList.add("message", ...classes);
     div.innerHTML = content;
     return div;
-}
+  }
 
-//function to scroll to the bottom of the container
-const scrollToBottom = () =>  container.scrollTo({ top: container.scrollHeight, behavior: "smooth" });
-
+  //function to scroll to the bottom of the container
+  const scrollToBottom = () =>  container.scrollTo({ top: container.scrollHeight, behavior: "smooth" });
+  
 
 
 //function to simulate typing effect
@@ -2293,7 +2293,8 @@ const handleFormSubmit = (event) => {
     if(!userMessage || document.body.classList.contains("bot-responding")) return;
 
     promptInput.value = "";
-    userData.message = userMessage;
+    userData.message = userMessage + "in 10 lines";
+    console.log(userData.message);
     document.body.classList.add("bot-responding","chats-active");
     fileUploadWrapper.classList.remove("active", "img-attached", "file-attached");
     //generate user message element and append to prompt container
