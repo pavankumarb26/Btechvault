@@ -37,6 +37,7 @@ body {
   padding: 40px;
   background: #111;
   box-shadow: 0 0 20px cyan;
+  border-radius: 20px;
 }
 
 
@@ -109,6 +110,8 @@ button:hover {
   padding: 40px;
   background: #111;
   margin-top: 20px;
+  box-shadow: 0 0 20px cyan;
+  overflow: hidden;
 }
 
 /* Chatbot */
@@ -135,16 +138,6 @@ button:hover {
   --secondary-color: #283045;
   --secondary-hover-color: #333e58;
   --scrollbar-color: #626a7f;
-}
-
-body.light-theme {
-  --text-color: #090c13;
-  --subheading-color: #7b8cae;
-  --placeholder-color: #606982;
-  --primary-color: #f3f7ff;
-  --secondary-color: #dce6f9;
-  --secondary-hover-color: #d2ddf2d;
-  --scrollbar-color: #a2aac2;
 }
 
 body {

@@ -70,9 +70,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
        { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -161,9 +163,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
         { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -252,9 +256,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
         { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -293,8 +299,7 @@ const data = {
       "Physics": [
         { name: "Mid-I&Mid-II(Q/A)", ...driveLinks("1ZH6KpuoRvpWrKuGeU-gfUFHes0CX-ryC") },
         { name: "Unit 1(Numericals)", ...driveLinks("1Juhtz0yRSPLx30wGX0dPChqwfkK01fkG") },
-          { name: "Mid-I(Fasttrack)", ...driveLinks("1dwhTYEnzZEJCR5SBK_1xuDJFa1WzpXlU") },
-
+        { name: "Mid-I(Fasttrack)", ...driveLinks("1dwhTYEnzZEJCR5SBK_1xuDJFa1WzpXlU") },
         { name: "Unit 2(Numericals)", ...driveLinks("1aAnEx1JB6_CeCDyf1U0rPVqcbNyC92fE") }
       ],
       "Chemistry": [
@@ -344,9 +349,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
         { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -435,9 +442,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
         { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -526,9 +535,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
        { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -544,11 +555,9 @@ const data = {
         { name: "Unit 3(Q/A)", ...driveLinks("1cGM11cl84JivQpJ8v2wghiwh0-hRBZTe") }
       ],
       "Electrical Circuit Analysis-I": [
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Question Bank)", ...driveLinks("1DjvIwjIXrCJU-dm6fRXmfroe3XQrDZAb") },
+        { name: "Unit 1(Notes)", ...driveLinks("1hZiVSQUqoWLPm8PsDoZ9p3uzukx8gdJp") },
+        { name: "Unit 2&3(Notes)", ...driveLinks("1e3iH9ht0bGLrtikqAa9UnOM3qNlEkgHJ") }
       ]
     },
 
@@ -614,9 +623,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
         { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -633,11 +644,11 @@ const data = {
       ],
       "Network Analysis": [
         { name: "Unit 3 Mid-II", ...driveLinks("1jIGjZQqgwuDjPPTYYzH8O_pYvLZSDvkm") },
-        { name: "Unit 4 ", ...driveLinks("1EE5x7MO-5PILMkbkJXFlA7BcB03oox0O") },
+        { name: "Unit 4", ...driveLinks("1EE5x7MO-5PILMkbkJXFlA7BcB03oox0O") },
         { name: "Mid-II(2 Marks) ", ...driveLinks("11KIVeUTVFPtz_jIWj90uweaHjW0_epRJ") },
         { name: "Unit 5 (longs)", ...driveLinks("1AmzRweNoox593KvEdhf-u_o5aExAjVJI") },
         { name: "Unit 5 (Q/A)", ...driveLinks("1Mot0HjQWNqZ7q_oUgp_SJzvenKU-c6Xz") },
-        { name: "Unit 5(shorts)", ...driveLinks("18V095SszhS1qvsMNHalRPLgJ5_CyKJWU") }
+        { name: "Unit 5(Mid-II)", ...driveLinks("12DAtxRah79Ps8bjZGDS1aKaZkKtzBPxv") }
       ]
     },
 
@@ -698,9 +709,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
         { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -780,9 +793,11 @@ const data = {
         { name: "Sample Question paper", ...driveLinks("1mY00RTMsHgEoWLme8cYatNosSQ-ynT7E") }
       ],
       "Communicative English": [
-        { name: "Mid-I(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Q/A)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Mid-II(Essays)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Q/A)", ...driveLinks("1Ii1tJCyJjdz1P-78IhgiMR8iySez13_E") },
+        { name: "Mid-II(Q/A)", ...driveLinks("18RJzqydbx4Q-KQyeWsGiPuRZVhXlCE4C") },
+        { name: "Mid-II(Essays)", ...driveLinks("1lAjR7GO6NabJvdtAu9XcAZGTwnDs5EYf") },
+        { name: "Mid-II(Q/A)", ...driveLinks("1iQjMlPCyYqQ3Ywii5ATmhUFO9QludbJZ") },
+        { name: "Mid-II(Essays)", ...driveLinks("1CTTCwDOCXoP16sELQm1C02-VTpQCcytm") }
       ],
       "BEEE(Electronics)": [
         { name: "Question Bank", ...driveLinks("1y1oHmaP7oNocspE7BXexwHiE34yAl7BU") },
@@ -809,7 +824,7 @@ const data = {
 
   "2nd Year": {
     "CSE": {
-      "MFOCS": [
+      "MFCS": [
         { name: "Mid-I(Question Bank)", ...driveLinks("1c6NXyTrT36Rr3u5IHoHNGlS49Dif9OkV") },
         { name: "Unit 1(2 Marks)", ...driveLinks("1SleI-teABEbbmDZub_LiIBcjtVw9c7Q_") },
         { name: "Unit 2(2 Marks)", ...driveLinks("187jZJ7vDBNuUdfSqRoegPFPniJ2zwYDB") },
@@ -861,14 +876,14 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "ME&FA": [
+      "MEFA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "P&S": [
+      "PS": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -889,7 +904,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "FL&AT": [
+      "FLAT": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -908,12 +923,14 @@ const data = {
 
     "ACSE": {
       "DMGT": [
-        { name: "Mid-I(Question Bank)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1(2 Marks)", ...driveLinks("1FIbd6svq98S6-YacxDod9hDor7heGThl") },
-        { name: "Unit 1(longs)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1(Notes)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 2(2 Marks)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 2(Notes)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Question Bank)", ...driveLinks("16FpMlgEcn933tZpNTYYgk27bIFHOgSbY") },
+        { name: "Unit 1(2 Marks)", ...driveLinks("10WhxzSR6tH7edTgaUQmeT7Hw0QLS6WK_") },
+        { name: "Unit 1(longs)", ...driveLinks("1HfEaDzVehz1I8K6l0CLycBT6L7fMm4XV") },
+        { name: "Unit 1(Notes)", ...driveLinks("1FTLktpF5Qxg3SAYcIAE1qm8snJAtmVYc") },
+        { name: "Unit 2(2 Marks)", ...driveLinks("1vEDGNK3tYuPPZlFZjBiqCKc3SqW91sd3") },
+        { name: "Unit 2(Notes)", ...driveLinks("1MkhJ_Dch7DzODbsFSNBexMZvntJzmHE2") },
+        { name: "Unit 3(Part-1 Notes)", ...driveLinks("1qkvgY8525-1qhJzkxfT7CwcAdJ_heKX8") },
+        { name: "Unit 2&3(MId -I Q/A)", ...driveLinks("1xO3kwZGHzaQ1dJbG-0QuYvRnBTad9geS") }
       ],
       "UHV": [
         { name: "MID-I(Question Bank)", ...driveLinks("1LUNJq4_mPijRpsrjbGiBVEfIHjZhIvBD") },
@@ -960,7 +977,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "ME&FA": [
+      "MEFA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1003,11 +1020,11 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
       "IDS": [
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Unit 1(Notes)", ...driveLinks("1BoJ0ME51mppoEpA0xrdQEkouOeF8fNdi") },
+        { name: "Unit 2(Notes)", ...driveLinks("1pJeut2WZ1ft3ZbYQovdDv265HYInJ6c9") },
+        { name: "Unit 3(Mid-I Notes)", ...driveLinks("1qdIm1IfI_edCYLhHg51TXMgPEJljsTFU") },
+        { name: "Mid-I(Question Bank)", ...driveLinks("1EWdhPl7zLfRqYOPxhplcqdL7SX-H_HQW") },
+        { name: "Mid-I(Shorts)", ...driveLinks("18kIA0dH1V9yx6xk6KFkGHGw_pgO6G5-g") }
       ],
       "SMDS": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1028,11 +1045,14 @@ const data = {
 
     "AI&DS": {
       "DMGT": [
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("1FIbd6svq98S6-YacxDod9hDor7heGThl") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Mid-I(Question Bank)", ...driveLinks("16FpMlgEcn933tZpNTYYgk27bIFHOgSbY") },
+        { name: "Unit 1(2 Marks)", ...driveLinks("10WhxzSR6tH7edTgaUQmeT7Hw0QLS6WK_") },
+        { name: "Unit 1(longs)", ...driveLinks("1HfEaDzVehz1I8K6l0CLycBT6L7fMm4XV") },
+        { name: "Unit 1(Notes)", ...driveLinks("1FTLktpF5Qxg3SAYcIAE1qm8snJAtmVYc") },
+        { name: "Unit 2(2 Marks)", ...driveLinks("1vEDGNK3tYuPPZlFZjBiqCKc3SqW91sd3") },
+        { name: "Unit 2(Notes)", ...driveLinks("1MkhJ_Dch7DzODbsFSNBexMZvntJzmHE2") },
+        { name: "Unit 3(Part-1 Notes)", ...driveLinks("1qkvgY8525-1qhJzkxfT7CwcAdJ_heKX8") },
+        { name: "Unit 2&3(MId -I Q/A)", ...driveLinks("1xO3kwZGHzaQ1dJbG-0QuYvRnBTad9geS") }
       ],
       "UHV": [
         { name: "MID-I(Question Bank)", ...driveLinks("1LUNJq4_mPijRpsrjbGiBVEfIHjZhIvBD") },
@@ -1079,7 +1099,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "ME&FA": [
+      "MEFA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1122,11 +1142,11 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
       "IDS": [
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Unit 1(Notes)", ...driveLinks("1BoJ0ME51mppoEpA0xrdQEkouOeF8fNdi") },
+        { name: "Unit 2(Notes)", ...driveLinks("1pJeut2WZ1ft3ZbYQovdDv265HYInJ6c9") },
+        { name: "Unit 3(Mid-I Notes)", ...driveLinks("1qdIm1IfI_edCYLhHg51TXMgPEJljsTFU") },
+        { name: "Mid-I(Question Bank)", ...driveLinks("1EWdhPl7zLfRqYOPxhplcqdL7SX-H_HQW") },
+        { name: "Mid-I(Shorts)", ...driveLinks("18kIA0dH1V9yx6xk6KFkGHGw_pgO6G5-g") }
       ],
       "SMDS": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1152,7 +1172,7 @@ const data = {
     },
 
     "ECM": {
-      "P&S": [
+      "PS": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("1FIbd6svq98S6-YacxDod9hDor7heGThl") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1171,9 +1191,6 @@ const data = {
       "EDC": [
         { name: "Mid-I(Question Bank)", ...driveLinks("1vo5DTTWBXdor9nUnLXl03s-zL1p5T3Kx") },
         { name: "Unit 3(Notes)", ...driveLinks("1sZC-X23XdHRGCzMxgVJLs9ur89kot5_X") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
       "OOPS (JAVA)": [
         { name: "Unit 1(Notes)", ...driveLinks("1ao2lASFp-Vt7thsQ2pd43Vhm1JZZcaTB") },
@@ -1195,7 +1212,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "ME&FA": [
+      "MEFA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1241,7 +1258,7 @@ const data = {
 
 
     "EEE": {
-      "CV&NM": [
+      "CVNM": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("1FIbd6svq98S6-YacxDod9hDor7heGThl") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1253,8 +1270,8 @@ const data = {
         { name: "MID-I(Answers)", ...driveLinks("1MdtJEfmSu3j-BkFgCA5xhvoO0NURubC9") },
         { name: "Unit 1,2,3(2 Marks)", ...driveLinks("1Kpwtsh4UgPQQ2113Db23TM53XBanO99a") }
       ],
-      "EMFT": [
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      "EMF": [
+        { name: "MID-I(2 Marks)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1285,7 +1302,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "ME&FA": [
+      "MEFA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1299,7 +1316,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "I&SM": [
+      "ISM": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1324,12 +1341,10 @@ const data = {
 
 
     "ECE": {
-      "RV&SP": [
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("1FIbd6svq98S6-YacxDod9hDor7heGThl") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      "RVSP": [
+        { name: "Unit 1(shorts)", ...driveLinks("1cdKfW4pdXGw4g1cxN5EhLS-4hrNV1gn6") },
+        { name: "Unit 3(Shorts)", ...driveLinks("1QAw4S_LcvvLqs1ajXVIYnBCuiKK8f2i0") }
+        
       ],
       "UHV": [
         { name: "MID-I(Question Bank)", ...driveLinks("1LUNJq4_mPijRpsrjbGiBVEfIHjZhIvBD") },
@@ -1342,10 +1357,7 @@ const data = {
       ],
       "EDC ": [
         { name: "Mid-I(Question Bank)", ...driveLinks("1vo5DTTWBXdor9nUnLXl03s-zL1p5T3Kx") },
-        { name: "Unit 3(Notes)", ...driveLinks("1sZC-X23XdHRGCzMxgVJLs9ur89kot5_X") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Unit 3(Notes)", ...driveLinks("1sZC-X23XdHRGCzMxgVJLs9ur89kot5_X") }
       ],
       "LCS": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1365,7 +1377,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "ME&FA": [
+      "MEFA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1404,7 +1416,7 @@ const data = {
 
 
     "IT": {
-      "P&S": [
+      "PS": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("1FIbd6svq98S6-YacxDod9hDor7heGThl") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1416,14 +1428,14 @@ const data = {
         { name: "MID-I(Answers)", ...driveLinks("1MdtJEfmSu3j-BkFgCA5xhvoO0NURubC9") },
         { name: "Unit 1,2,3(2 Marks)", ...driveLinks("1Kpwtsh4UgPQQ2113Db23TM53XBanO99a") }
       ],
-      "ME&FA": [
+      "MEFA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "MFOCS": [
+      "MFCS": [
         { name: "Mid-I(Question Bank)", ...driveLinks("1c6NXyTrT36Rr3u5IHoHNGlS49Dif9OkV") },
         { name: "Unit 1(2 Marks)", ...driveLinks("1SleI-teABEbbmDZub_LiIBcjtVw9c7Q_") },
         { name: "Unit 2(2 Marks)", ...driveLinks("187jZJ7vDBNuUdfSqRoegPFPniJ2zwYDB") },
@@ -1465,7 +1477,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "DL&CO": [
+      "DLCO": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1479,7 +1491,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "D&AOA": [
+      "DAOA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1497,7 +1509,7 @@ const data = {
 
 
     "Civil": {
-      "N&SM": [
+      "NSM": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("1FIbd6svq98S6-YacxDod9hDor7heGThl") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1510,11 +1522,11 @@ const data = {
         { name: "Unit 1,2,3(2 Marks)", ...driveLinks("1Kpwtsh4UgPQQ2113Db23TM53XBanO99a") }
       ],
       "Surveying": [
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Unit 1(Question Bank)", ...driveLinks("1_8K-MlGVWdW07s0YNEC_fyPeOOxhn_wo") },
+        { name: "Unit 1(Notes)", ...driveLinks("1wYu0Z4DLeLFiSZalBhumGaPB8WMBKedt") },
+        { name: "Unit 1(Q/A)", ...driveLinks("1nw6JGF8LbM3k6r4jjd_DgNOk9MELyfwc") },
+        { name: "Unit 2(Notes)", ...driveLinks("1fNgRi_YkUVs8MzWgMqOJ6xKBiQcEsftm") },
+        { name: "Unit 3(Notes)", ...driveLinks("1ySsmLCnrckY_8ezUuZ9bvwbVTunVDlZ4") }
       ],
       "Strength of Materials": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1534,14 +1546,14 @@ const data = {
         { name: "MID-I(Question Bank)", ...driveLinks("1K8-SkQf8kOFD3MeFjv9uQwHoWnrSLV94") },
         { name: "MID-I(Answers)", ...driveLinks("1H3ISg4SzDNU3Be-1kCT_DZ7ivMfQucWV") }
       ],
-      "BP&D": [
+      "BPD": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "ME&FA": [
+      "MEFA": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1555,7 +1567,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "BM&CT": [
+      "BMCT": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1569,7 +1581,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "H&HM": [
+      "HHM": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1587,7 +1599,7 @@ const data = {
 
 
     "Mech": {
-      "N&SM": [
+      "NSM": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("1FIbd6svq98S6-YacxDod9hDor7heGThl") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1598,7 +1610,7 @@ const data = {
         { name: "MID-I(Question Bank)", ...driveLinks("1LUNJq4_mPijRpsrjbGiBVEfIHjZhIvBD") },
         { name: "MID-I(Answers)", ...driveLinks("1MdtJEfmSu3j-BkFgCA5xhvoO0NURubC9") },
         { name: "Unit 1,2,3(2 Marks)", ...driveLinks("1Kpwtsh4UgPQQ2113Db23TM53XBanO99a") }      ],
-      "MS&M": [
+      "MSM": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1630,7 +1642,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "P&CV": [
+      "PCV": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1644,7 +1656,7 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
-      "FM&HM(Fluid Mechanics and Hydraulic Machines)": [
+      "FMHM(Fluid Mechanics and Hydraulic Machines)": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1658,31 +1670,422 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ]
-    },
+    }
   },
-  //   "3st Year": {
-  //   "CSE": {
-  //     "Maths": [
-  //       { name: "Unit 1", file: "story.pdf" },
-  //       { name: "Unit 2", file: "DLCO.docx" }
-  //     ],
-  //     "Physics": [
-  //       { name: "Unit 1", file: "story.pdf", upload: "files/1st/cse/physics_unit1.pdf" }
-  //     ]
-  //   }
-  // },
-  //   "4st Year": {
-  //   "CSE": {
-  //     "Maths": [
-  //       { name: "Unit 1", file: "story.pdf" },
-  //       { name: "Unit 2", file: "DLCO.docx" }
-  //     ],
-  //     "Physics": [
-  //       { name: "Unit 1", file: "story.pdf", upload: "files/1st/cse/physics_unit1.pdf" }
-  //     ]
-  //   }
-  // }
+
+  "3st Year": {
+    "CSE": {
+      "DWDM(Data Warehousing and Data Mining)": [
+        { name: "IMP(Queestions)", ...driveLinks("1vsHFrKzx6sphD-0uB70ZEKg9qIiGVbIy") },
+        { name: "Unit 1", ...driveLinks("12zLhHYlTahnlYy5iDQV1RUTCqwY1aug5") },
+        { name: "Unit 1&2", ...driveLinks("1g7LRbKcptv1pGJgAnl59yaIR66Rwhzus") },
+        { name: "Unit 2(Data preprocessing)", ...driveLinks("1W-6-qvZ8u1yJ9SHW45fDcrkf74t-qBWn") },
+        { name: "Unit 3", ...driveLinks("10F1iQO96VN0sIuggrK1en8tB9Wac6Gpq") }
+      ],
+      "AOR(Applied operation research)": [
+        { name: "Mid-I(Question Bank)", ...driveLinks("1NKa-SdmVti18GizbiwDgySM-t_WiTa1x") },
+        { name: "Assignment problem", ...driveLinks("18g4rAhJw-ZL-40oYl2so1qCW1j8OBekz") },
+        { name: "Dual simplex", ...driveLinks("1itlkvsFfF0auRvR8os6EZ7fTpuuTGWQQ") },
+        { name: "Gllp,canonical", ...driveLinks("1rWXn1wwpf5A3-a6oRHjd5V9fJ1HXMA8C") },
+        { name: "lpp graphical method", ...driveLinks("1518Ty6hpeuNm-jj2pQlnq3pvXYYwXIbd") },
+        { name: "Replacement theory", ...driveLinks("1oYAwyWYtzO51pVU1GCqrZscvjxqjmW3O") },
+        { name: "Sequencing", ...driveLinks("1dqeynAvlAvfTO9pcYVBcPJPUhJ3kYrKh") },
+        { name: "simplex", ...driveLinks("1vETlNSwZ95ckIpLlqLlJKLlTqYPhACiC") },
+        { name: "transhipment", ...driveLinks("11jePUHe_vsK45odfZt6F8Vs1EjtFB6TW") },
+        { name: "transportation problem", ...driveLinks("1miwTeqkoFiY4rZ_6AF30wSJjQjAXn1UU") },
+        { name: "two phase", ...driveLinks("1Ef0OXeITt7KLrnNtc4KQrp7ui6vwtY8Z") }
+      ],
+      "ADSAT(Advanced Data Structures and Algorithms)":[
+        { name: "Graphs", ...driveLinks("19m1i6OiwvXq0GXym-ZcBoQ6MglW6RhAR") },
+        { name: "AVL Trees", ...driveLinks("1xi8GVDypgAD3R4GdKJPyGx4esYARLwC0") }
+      ],
+      "OOAD(ObjectOrientedAnalysis and Design)": [
+        { name: "Unit 1(Notes)", ...driveLinks("1cevwcwis71PXCcqC1eG7H1luMZguxDyK") },
+        { name: "Unit 2(Notes)", ...driveLinks("1LqJ-CigGcE1ynDOiUetWEuSf_7YsZMrm") },
+        { name: "Class Diagrams", ...driveLinks("1IVFF0a2sqQ7y5zKNsYZtbvXpsrQbw1dJ") },
+        { name: "Classes", ...driveLinks("1mLZEY8kiTKrtIJwPcejf8nyLj2_UlTpO") },
+        { name: "Common Mechanisms", ...driveLinks("1sPqcSYOyKXBDZivhw6yA-8F5i3vNHerN") },
+        { name: "Interfaces,types and Roles", ...driveLinks("1HM_6GEcFVOsLQybyHpuLThGYLnOpugzi") },
+        { name: "object Diagrams", ...driveLinks("1_FulfuCf6mAjt6nArUdQx2O3nzvIlb7e") },
+        { name: "Advanced Relationships", ...driveLinks("1IB9M2ShsyUG-5ihLHRwgHYcJqvbO1AnS") },
+        { name: "Packages", ...driveLinks("1E-NdZ0sBdslpDayTzSreGxijpuJhdnj_") }
+      ],
+      "CD(Computer Design)": [
+        { name: "MID-I(Question Bank)", ...driveLinks("1EV-rafuOAlzapvAcbWUm1kzKurV5zVRv") },
+        { name: "Unit 1", ...driveLinks("1RHT5M3ElbEwsDpdGRacFZuQomSqnaPTn") },
+        { name: "Unit 2", ...driveLinks("1GITvi9fPFNzGWTi45tmxJvPptbbzyOo2") },
+        { name: "Unit 3", ...driveLinks("1mnk00Qs1iBvorZO7NtWWj4aNUusm2_bB") }   
+         ]
+    },    
+    "ACSE":{
+    "SE(Software Engineering)": [
+        { name: "Mid-I(Question Bank)", ...driveLinks("1bPLFfQZ9KoLQseHGf3ME_WmvuO9lmc19") },
+        { name: "Unit 1(Q/A)", ...driveLinks("1nGbUuE2b0Tcy8HtJuyANHXXf2e_LMYOS") },
+        { name: "Unit 2(Q/A)", ...driveLinks("1dI7wVFZ0jdUba2qaQ0vFniKT9tAYmB9T") },
+        { name: "Unit 3(Q/A --> Mid-I)", ...driveLinks("1mevSyGmoHpNTv5S7ye8WOU7GiSVwOQUY") }
+      ]
+      // "Applied Operation": [
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      // ],
+      // "CNAP(Computer Networks ArchitectureandProtocols": [
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      // ],
+      // "Natural Language Processing": [
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      // ],
+      // "OS(Operating System)": [
+      //   { name: "Unit 1(Lecture No 1)", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+      //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      // ],
+    // "OE-I Microprocessor & Microcontroller": [
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+    //   ],
+    //   "Cloud Computing": [
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+    //   ],
+    //   "ICS(Introduction to Cyber Security)": [
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+    //   ],
+    //   "ATCD(Automatation Theory& Compiler Design)": [
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+    //   ],
+    //   "PASD(Probability and applied Statistics)": [
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+    //   ],
+    // "ML(Machine Learning)": [
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+    //   ],
+    //   "Predictive Analytics": [
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+    //   ],
+    //   "Artificial Intelligence": [
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+    //     { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+    //   ]
+    },
+
+    "AI&DS":{
+        "SE(Software Engineering)": [
+        { name: "Mid-I(Question Bank)", ...driveLinks("1bPLFfQZ9KoLQseHGf3ME_WmvuO9lmc19") },
+        { name: "Unit 1", ...driveLinks("1nGbUuE2b0Tcy8HtJuyANHXXf2e_LMYOS") },
+        { name: "Unit 2", ...driveLinks("1dI7wVFZ0jdUba2qaQ0vFniKT9tAYmB9T") },
+        { name: "Unit 3", ...driveLinks("1mevSyGmoHpNTv5S7ye8WOU7GiSVwOQUY") }
+      ],
+      "ATC (Automatation Theory and Compiler Design)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "OE-I(Renewable Energy Systems)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+    "Machine Learning": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Operating Systems": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ]
+    },
+    "IT":{
+      "DWD(Data Warehousing and Data Mining)": [
+        { name: "Mid-I(Question Bank)", ...driveLinks("1c6NXyTrT36Rr3u5IHoHNGlS49Dif9OkV") },
+        { name: "Unit 1(2 Marks)", ...driveLinks("1SleI-teABEbbmDZub_LiIBcjtVw9c7Q_") },
+        { name: "Unit 2(longs)", ...driveLinks("1tJPrEHSkAkWXeg2ynlaCJHq4ueqBEO5B") },
+        { name: "Unit 3(mid-1 longs)", ...driveLinks("1A6cqdJMpjfQP-95nAyWUCYS37CLflYcQ") }
+      ],
+      "ATC (Automatation Theory and Compiler Design)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Computer Networks Architecture": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Advanced Java": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Green Building": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ]
+    },
+    "ECM":{
+      "DWD(Data Warehousing and Data Mining)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "PO(Principal of Operating)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "LD IC(Linear and Digital IC)": [
+       { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "CAO(Computer Architecture and Organization)": [
+       { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "MM(Microprocessor and Microcontroller)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Constitution of India": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ]
+    },
+    "ECE":{
+      "ADIC(Analog and Digital IC)":[
+        { name: "Unit 1", ...driveLinks("19z4v9sOxuIu13yW83ELW6Px-hiFsqL0w") },
+        { name: "Unit 2", ...driveLinks("1dmlvNJaYu2IB9qiRRW_y1NDYhEPiAFNO") },
+        { name: "Mid-I(Shorts)", ...driveLinks("1tDX0HZChWvLeq5yNXNxTlGQ74iHgU_RA") }
+      ],
+      "PO(Principal of Operating)": [
+        { name: "Mid-I(Question Bank)", ...driveLinks("1c6NXyTrT36Rr3u5IHoHNGlS49Dif9OkV") },
+        { name: "Unit 1(2 Marks)", ...driveLinks("1SleI-teABEbbmDZub_LiIBcjtVw9c7Q_") },
+        { name: "Unit 2(longs)", ...driveLinks("1tJPrEHSkAkWXeg2ynlaCJHq4ueqBEO5B") },
+        { name: "Unit 3(mid-1 longs)", ...driveLinks("1A6cqdJMpjfQP-95nAyWUCYS37CLflYcQ") }
+      ],
+      "AWP(Antennas and Wave Propagation)": [
+        { name: "Unit 2", ...driveLinks("13EgcEMT64bVI4tvtrLmQrh10ZALdLnDv") },
+        { name: "Unit 3", ...driveLinks("19ZABE1ZMC7MOsXl2oJQOwlMVuus5ev_Y") },
+        { name: "Half wave dipole", ...driveLinks("1__e3NSITbbOaKH2klxyAI_IuNyr29cU6") }
+      ],
+      "EMS(Electronic Measurements and Instrumentation)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "MM(Microprocessor and Microcontroller)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Constitution of India": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ]      
+    },
+    "EEE":{
+      "PE (Power Electronics)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Digital Circuits": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Power Systems-II": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "SS(Signal and Systems)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "FIT(Fundamentals of internet of Things)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "TPW&IPR(Technical Paper Writing and IPR)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+    },
+    "Civil":{
+      "WRE (Water Resource Engineering)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "DRCS(Design of Reinforced Concrete Structures)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Geotechnnical Engineering": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Ground Improvements Techniques": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Industrial safety": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ]
+    },
+    "Mech":{
+      "MTM (Machine Tools and Mertology)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Thermal Engineering": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "Theory of Machines": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "ICS(Instrumentation & control Systems)": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ],
+      "(SET)Sustainable Energy Technologies": [
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
+        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+      ]
+    }
+  }
 };
+
 
 // ----- DOM Elements -----
 const yearButtonsDiv = document.getElementById("year-buttons");
@@ -1753,45 +2156,6 @@ searchBox.addEventListener("input", () => {
   });
 });
 
-
-
-
-
-
-
-// Load PDFs
-// function loadPDFs(year, branch, subject) {
-//   pdfButtonsDiv.innerHTML = "";
-//   data[year][branch][subject].forEach(pdf => {
-//     const wrapper = document.createElement("div");
-
-//     // Download button (forces download)
-//     const downloadBtn = document.createElement("button");
-//     downloadBtn.textContent = `Download ${pdf.name}`;
-//     downloadBtn.onclick = () => {
-//       const a = document.createElement("a");
-//       a.href = pdf.file;
-//       a.download = pdf.name;  // force download with given name
-//       document.body.appendChild(a);
-//       a.click();
-//       document.body.removeChild(a);
-//     };
-//     wrapper.appendChild(downloadBtn);
-
-//     // View button (only for PDFs)
-//     if (pdf.file.toLowerCase().endsWith(".pdf")) {
-//       const viewBtn = document.createElement("button");
-//       viewBtn.textContent = `View ${pdf.name}`;
-//       viewBtn.onclick = () => {
-//         pdfViewer.src = pdf.file;
-//         modal.style.display = "block";
-//       };
-//       wrapper.appendChild(viewBtn);
-//     }
-
-//     pdfButtonsDiv.appendChild(wrapper);
-//   });
-// }
 
 
 function loadPDFs(year, branch, subject) {
@@ -1888,7 +2252,7 @@ const generateResponce = async(botMsgDiv)=>{
     //push user message to chat history
     chatHistory.push({
         role: "user",
-        parts: [{text: userMessage},...(userData.file.data ? [{ inline_data: (({ fileName, isImage,...rest})=>rest)(userData.file)}] : [])]
+        parts: [{text: userData.message},...(userData.file.data ? [{ inline_data: (({ fileName, isImage,...rest})=>rest)(userData.file)}] : [])]
     });
 
     try {
@@ -2018,12 +2382,6 @@ document.addEventListener("click",({target}) => {
    (target.id === "add-file-btn" || target.id === "stop-response-btn"));
 
     wrapper.classList.toggle("hide-controls", shouldHide);
-});
-
-//theme toggle button click event
-themeToggle.addEventListener("click", () => {
-   const isLightTheme = document.body.classList.toggle("light-theme");
-    // themeToggle.textContent = isLightTheme ? `◎` : `◉`;
 });
 
 promptForm.addEventListener("submit", handleFormSubmit);
