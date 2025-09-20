@@ -2230,9 +2230,16 @@ function loadPDFs(year, branch, subject) {
   data[year][branch][subject].forEach(pdf => {
     const wrapper = document.createElement("div");
 
-    const downloadBtn = document.createElement("button");
-    downloadBtn.textContent = `Download ${pdf.name}`;
-    downloadBtn.onclick = () => window.open(pdf.file, "_blank");
+const downloadBtn = document.createElement("button");
+downloadBtn.textContent = `Download ${pdf.name}`;
+downloadBtn.onclick = () => {
+  const a = document.createElement("a");
+  a.href = pdf.file;
+  a.setAttribute("download", "");
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+};
 
     const viewBtn = document.createElement("button");
     viewBtn.textContent = `View ${pdf.name}`;
