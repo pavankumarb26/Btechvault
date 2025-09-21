@@ -2540,6 +2540,7 @@ searchBox.addEventListener("input", () => {
 
 
 function loadPDFs(year, branch, subject) {
+  subjectButtonsDiv.innerHTML = "";
   pdfButtonsDiv.innerHTML = "";
   data[year][branch][subject].forEach(pdf => {
     const wrapper = document.createElement("div");
