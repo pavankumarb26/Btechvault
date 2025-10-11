@@ -1760,11 +1760,15 @@ const data = {
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
       ],
       "DLCO": [
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
-        { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") }
+        { name: "Unit 1(Number system)", ...driveLinks("1TE8t2P60vKlOK3m-l4kxcMpnmAlnMXri") },
+        { name: "Unit 2(Shift Registers)", ...driveLinks("1UVf6yeZmc5C-9GSpg8R1xIFYYxNOnxO3") },
+        { name: "Unit 3(Counters)", ...driveLinks("1jj9sgasUF2Xp0bCGRApvXDtn6RmPNKv5") },
+        { name: "Mid-I(Question Bank)", ...driveLinks("1VUBYJZltejB5K3yQUyK7TATINDDiONn8") },
+        { name: "Unit 2(longs)", ...driveLinks("1RlPn8NP7p2F5b_WxMPYPYnKz54vq9mXH") },
+        { name: "Unit 3(longs)", ...driveLinks("1fMHsf9HVwKHuNmOePDZGqRHLBXPJk_Pw") },
+        { name: "Unit 1(2 Marks)", ...driveLinks("1pnTdWPan0CPA1tiMP9TvNIfmmNL-VUs1") },
+        { name: "Unit 2(2 Marks)", ...driveLinks("1ceLEdRU3-6cv81n1l3x1S390e5vgi_kd") },
+        { name: "Unit 3(2 Marks)", ...driveLinks("1zIuiN_9FWCHxLn7Dwvm8kKVrdVCvV3mz") }
       ],
       "DBMS": [
         { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
