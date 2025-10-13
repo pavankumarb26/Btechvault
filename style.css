@@ -180,13 +180,16 @@ button:hover {
   /* margin-left: 10px10 */
 }
 
-.download-btns{
+.download-btns {
   display: flex;
   gap: 10px;
   justify-content: center;
   margin-top: 10px;
   flex-wrap: nowrap;
+  width: fit-content;      /* ✅ makes container as wide as buttons */
+  margin-inline: auto;     /* ✅ centers the box horizontally */
 }
+
 
 /* Chatbot */
 #chatbox {
