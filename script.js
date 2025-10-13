@@ -2570,6 +2570,7 @@ downloadBtn.onclick = () => {
     wrapper.appendChild(downloadBtn);
     wrapper.appendChild(viewBtn);
     pdfButtonsDiv.appendChild(wrapper);
+    wrapper.classList.add("download-btns");
   });
 }
 
