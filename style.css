@@ -190,6 +190,11 @@ button:hover {
   margin-inline: auto;     /* ✅ centers the box horizontally */
 }
 
+.download-btns button {
+  padding: 6px 12px;
+  font-size: 14px;
+}
+
 
 /* Chatbot */
 #chatbox {
