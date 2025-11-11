@@ -141,10 +141,12 @@ button:hover {
 /* Tracker */
 .tracker-div {
   display: flex;
+  
   justify-content: center;
   align-items: center;
 }
 .tracker {
+  margin: 0px 15px;
   padding: 10px;
   display: flex;
   flex-direction: column;
