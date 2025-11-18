@@ -10,13 +10,17 @@ function driveLinks(id) {
 const data = {
   "1st Year": {
     "CSE": {
-      "LAC": [
-       { name: "Mid-I(Question Bank)", ...driveLinks("1u85GFLBz3ldREyuffnzEdgog-zppy99P") },
-        { name: "Mid-I(2 Marks)", ...driveLinks("1AIeeND8iSIlpkZ7Cl-Y5JCiEs7rFVlDs") },
-        { name: "Complete Notes(5 Units)", ...driveLinks("1dEu2dhMmE8BIli9Nj9TxS6tplXwQZLEe") },
+      "LAC": {
+        "Mid-I Portion": [
+          { name: "Mid-I(Question Bank)", ...driveLinks("1u85GFLBz3ldREyuffnzEdgog-zppy99P") },
+        { name: "Mid-I(2 Marks)", ...driveLinks("1AIeeND8iSIlpkZ7Cl-Y5JCiEs7rFVlDs") }
+        ],
+        "Mid-II Portion": [
+          { name: "Complete Notes(5 Units)", ...driveLinks("1dEu2dhMmE8BIli9Nj9TxS6tplXwQZLEe") },
         { name: "Mid-II(Question Bank)", ...driveLinks("1E771zSNrfN9ugIK2xFXyFMk8OhaGA_vL") },
         { name: "Mid-II(2 Marks)", ...driveLinks("1MrRyx15Kxw4HJd2IS5P96BiVqEFALvaJ") }
-      ],
+        ]
+      },
       "Physics": [
         { name: "Mid-I&Mid-II(Q/A)", ...driveLinks("1ZH6KpuoRvpWrKuGeU-gfUFHes0CX-ryC") },
         { name: "Unit 1(Numericals)", ...driveLinks("1Juhtz0yRSPLx30wGX0dPChqwfkK01fkG") },
@@ -986,7 +990,8 @@ const data = {
         { name: "Unit 2&3(MId -I Q/A)", ...driveLinks("1xO3kwZGHzaQ1dJbG-0QuYvRnBTad9geS") },
         { name: "Unit 3(Part-1 Notes)", ...driveLinks("1qkvgY8525-1qhJzkxfT7CwcAdJ_heKX8") },
         { name: "Mid-II(Question Bank)", ...driveLinks("1QoZUkSv4X_m4IV1cncILPN9LmrXXJqEU") },
-        { name: "Unit 3(longs)", ...driveLinks("1CYDwuL3WnvVBIUeYwzrWc98Eow8_oONz") },
+        { name: "Unit 3(Notes)", ...driveLinks("1tL9rl8dyLqjEgf_ljI3XGUbo-vLg56rd") },
+        { name: "Unit 3(shorts)", ...driveLinks("1SiB_LeXYJtBJ4TUF7UPJpSX_dD7AOfik") },
         { name: "Unit 4(longs)", ...driveLinks("1Aib9ARS8s53XT_L9VDL7qGpaZrNBtmbt") },
         { name: "Unit 5(longs Model 1)", ...driveLinks("1TOrErsm8UUJotVtlV1bwfS9-_Vkzq1Pi") },
         { name: "Unit 5(longs Model 2)", ...driveLinks("1nl72XswRVWazZUK2XYZQz8sO49MYWZUQ") },
@@ -1173,7 +1178,8 @@ const data = {
         { name: "Unit 2&3(MId -I Q/A)", ...driveLinks("1xO3kwZGHzaQ1dJbG-0QuYvRnBTad9geS") },
         { name: "Unit 3(Part-1 Notes)", ...driveLinks("1qkvgY8525-1qhJzkxfT7CwcAdJ_heKX8") },
         { name: "Mid-II(Question Bank)", ...driveLinks("1QoZUkSv4X_m4IV1cncILPN9LmrXXJqEU") },
-        { name: "Unit 3(longs)", ...driveLinks("1CYDwuL3WnvVBIUeYwzrWc98Eow8_oONz") },
+        { name: "Unit 3(Notes)", ...driveLinks("1tL9rl8dyLqjEgf_ljI3XGUbo-vLg56rd") },
+        { name: "Unit 3(shorts)", ...driveLinks("1SiB_LeXYJtBJ4TUF7UPJpSX_dD7AOfik") },
         { name: "Unit 4(longs)", ...driveLinks("1Aib9ARS8s53XT_L9VDL7qGpaZrNBtmbt") },
         { name: "Unit 5(longs Model 1)", ...driveLinks("1TOrErsm8UUJotVtlV1bwfS9-_Vkzq1Pi") },
         { name: "Unit 5(longs Model 2)", ...driveLinks("1nl72XswRVWazZUK2XYZQz8sO49MYWZUQ") },
@@ -2665,7 +2671,18 @@ function loadSubjects(year, branch) {
   Object.keys(data[year][branch]).forEach(subject => {
     const btn = document.createElement("button");
     btn.textContent = subject;
-    btn.onclick = () => loadPDFs(year, branch, subject);
+    btn.onclick = () => loadportions(year, branch, subject);
+    subjectButtonsDiv.appendChild(btn);
+  });
+}
+
+function loadportions(year, branch, subject) {
+  subjectButtonsDiv.innerHTML = "";
+  pdfButtonsDiv.innerHTML = "";
+  Object.keys(data[year][branch][subject]).forEach(portion => {
+    const btn = document.createElement("button");
+    btn.textContent = portion;
+    btn.onclick = () => loadPDFs(year, branch, subject, portion);
     subjectButtonsDiv.appendChild(btn);
   });
 }
@@ -2680,17 +2697,23 @@ searchBox.addEventListener("input", () => {
   subjectButtonsDiv.innerHTML = "";
   pdfButtonsDiv.innerHTML = "";
 
-  if (!query) return; // if empty, clear results
+  if (!query) return;
 
   Object.keys(data).forEach(year => {
     Object.keys(data[year]).forEach(branch => {
       Object.keys(data[year][branch]).forEach(subject => {
+
         if (subject.toLowerCase().includes(query)) {
+
           const btn = document.createElement("button");
           btn.textContent = `${subject} (${year} - ${branch})`;
-          btn.onclick = () => loadPDFs(year, branch, subject);
+
+          // When clicking search result → Load portions (not PDFs directly)
+          btn.onclick = () => loadportions(year, branch, subject);
+
           subjectButtonsDiv.appendChild(btn);
         }
+
       });
     });
   });
@@ -2698,10 +2721,11 @@ searchBox.addEventListener("input", () => {
 
 
 
-function loadPDFs(year, branch, subject) {
-  subjectButtonsDiv.innerHTML = "";
+
+function loadPDFs(year, branch, subject,portion) {
+  // subjectButtonsDiv.innerHTML = "";
   pdfButtonsDiv.innerHTML = "";
-  data[year][branch][subject].forEach(pdf => {
+  data[year][branch][subject][portion].forEach(pdf => {
     const wrapper = document.createElement("div");
 
 const downloadBtn = document.createElement("button");
