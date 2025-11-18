@@ -911,11 +911,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }
+       { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
       ],
       // "Full Stack Development-1": [
       //   { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -989,10 +986,14 @@ const data = {
         { name: "Unit 2&3(MId -I Q/A)", ...driveLinks("1xO3kwZGHzaQ1dJbG-0QuYvRnBTad9geS") },
         { name: "Unit 3(Part-1 Notes)", ...driveLinks("1qkvgY8525-1qhJzkxfT7CwcAdJ_heKX8") },
         { name: "Mid-II(Question Bank)", ...driveLinks("1QoZUkSv4X_m4IV1cncILPN9LmrXXJqEU") },
+        { name: "Unit 3(longs)", ...driveLinks("1CYDwuL3WnvVBIUeYwzrWc98Eow8_oONz") },
+        { name: "Unit 4(longs)", ...driveLinks("1Aib9ARS8s53XT_L9VDL7qGpaZrNBtmbt") },
+        { name: "Unit 5(longs Model 1)", ...driveLinks("1TOrErsm8UUJotVtlV1bwfS9-_Vkzq1Pi") },
+        { name: "Unit 5(longs Model 2)", ...driveLinks("1nl72XswRVWazZUK2XYZQz8sO49MYWZUQ") },
+        { name: "Unit 4&5(Shorts)", ...driveLinks("1fIgvivyJP_Q0v7kcJfX0ORTrD-HwbkVx") },
         { name: "Unit 4(Notes)", ...driveLinks("1BOMjwZlV86ohqF1Et31fHnIL43l6Yy_E") },
         { name: "Unit 4(Question Bank)", ...driveLinks("1iZzwk34yAXd7irUekoYoCLV8XnuAS1-K") },
-        { name: "Unit 5(Notes Model 1)", ...driveLinks("1bpsNPw_cuA1u96Nil79nTt37P1oytono") },
-        { name: "Unit 5(Notes Model 2)", ...driveLinks("1sNZ1YAEans55faibsI2HTxe9_WJfwaRZ") }
+        { name: "Unit 5(Notes Model 1)", ...driveLinks("1bpsNPw_cuA1u96Nil79nTt37P1oytono") }
       ],
       "UHV": [
         { name: "Question Bank", ...driveLinks("1LUNJq4_mPijRpsrjbGiBVEfIHjZhIvBD") },
@@ -1079,11 +1080,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }
+        { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
       ],
       "MEFA": [
         { name: "Complete Notes", ...driveLinks("1mBkfV4hWOnVIb9f6f5VFcauqJLn97UkP") },
@@ -1175,6 +1173,11 @@ const data = {
         { name: "Unit 2&3(MId -I Q/A)", ...driveLinks("1xO3kwZGHzaQ1dJbG-0QuYvRnBTad9geS") },
         { name: "Unit 3(Part-1 Notes)", ...driveLinks("1qkvgY8525-1qhJzkxfT7CwcAdJ_heKX8") },
         { name: "Mid-II(Question Bank)", ...driveLinks("1QoZUkSv4X_m4IV1cncILPN9LmrXXJqEU") },
+        { name: "Unit 3(longs)", ...driveLinks("1CYDwuL3WnvVBIUeYwzrWc98Eow8_oONz") },
+        { name: "Unit 4(longs)", ...driveLinks("1Aib9ARS8s53XT_L9VDL7qGpaZrNBtmbt") },
+        { name: "Unit 5(longs Model 1)", ...driveLinks("1TOrErsm8UUJotVtlV1bwfS9-_Vkzq1Pi") },
+        { name: "Unit 5(longs Model 2)", ...driveLinks("1nl72XswRVWazZUK2XYZQz8sO49MYWZUQ") },
+        { name: "Unit 4&5(Shorts)", ...driveLinks("1fIgvivyJP_Q0v7kcJfX0ORTrD-HwbkVx") },
         { name: "Unit 4(Notes)", ...driveLinks("1BOMjwZlV86ohqF1Et31fHnIL43l6Yy_E") },
         { name: "Unit 4(Question Bank)", ...driveLinks("1iZzwk34yAXd7irUekoYoCLV8XnuAS1-K") },
         { name: "Unit 5(Notes Model 1)", ...driveLinks("1bpsNPw_cuA1u96Nil79nTt37P1oytono") },
@@ -1265,11 +1268,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }
+        { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
       ],
       "Full Stack Development-1": [
         // { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1450,11 +1450,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }
+        { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
       ],
       "Full Stack Development-1": [
         // { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1581,11 +1578,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }
+        { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
       ],
       "Analog Circuits": [
         // { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -1732,11 +1726,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }
+        { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
       ],
       "EMWTL": [
         { name: "Mid-I(Question Bank)", ...driveLinks("1xNxLm-EBDt9_nq0koM_SGhUubo85xxnT") },
@@ -1891,11 +1882,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }  
+        { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
           ],
       "Django Framework": [
         // { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
@@ -2008,11 +1996,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }
+        { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
       ],
       "BPD": [
         { name: "Complete Material", ...driveLinks("1M5Ndj-VIBxy8BJsQK7UVehQFCE4S3qac") },
@@ -2120,11 +2105,8 @@ const data = {
         { name: "Unit 1(longs)", ...driveLinks("1R5lpsMCiItarSvMLNXroBIoUZvaZXiUy") },
         { name: "Unit 2(longs)", ...driveLinks("1EuqyHvNyo5MkdhUSCaDjt-ozMRy_gU80") },
         { name: "Unit 3 Mid-I(longs)", ...driveLinks("1MR2CzqjnVlq5LFw0q_wU5rel-SnJRqSn") },
-        { name: "Mid-II(Question Bank)", ...driveLinks("1gzt-pGmvvREsxr6_OmcqBFBVRJ_4i54l") },
-        { name: "Mid-II(Shorts)", ...driveLinks("1Lk659T03YmTWYcwj4QcPTyyQv9WULru8") },
-        { name: "Unit 3 Mid-II(longs)", ...driveLinks("1V120IZc8pC3Ma0aM6BFCTE2FvLFGBOtC") },
-        { name: "Unit 4(longs)", ...driveLinks("1VEFJmd1gB1p7h98EeC8Mvch-ylFGsaBU") },
-        { name: "Unit 5(longs)", ...driveLinks("1IotbgBEqUKPCbbWUvY7h38t5m4MbF3Jp") }
+        { name: "Mid-II(Question Bank)", ...driveLinks("1kCOTwJ5Gp6lS0wjj7Iak0HIzHPP4GVUM") },
+        { name: "Mid-II(Question Bank Answers)", ...driveLinks("1x7mmB4ksUGcLMDOqnMbu6SUX5z9HMmMh") }
       ],
       "IM": [
         // { name: "Unit 1", ...driveLinks("16NEKEnMoABxYHJgFRuJApFR5GgG2heJ3") },
