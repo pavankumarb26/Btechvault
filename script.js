@@ -2671,18 +2671,7 @@ function loadSubjects(year, branch) {
   Object.keys(data[year][branch]).forEach(subject => {
     const btn = document.createElement("button");
     btn.textContent = subject;
-    btn.onclick = () => loadportions(year, branch, subject);
-    subjectButtonsDiv.appendChild(btn);
-  });
-}
-
-function loadportions(year, branch, subject) {
-  subjectButtonsDiv.innerHTML = "";
-  pdfButtonsDiv.innerHTML = "";
-  Object.keys(data[year][branch][subject]).forEach(portion => {
-    const btn = document.createElement("button");
-    btn.textContent = portion;
-    btn.onclick = () => loadPDFs(year, branch, subject, portion);
+    btn.onclick = () => loadPDFs(year, branch, subject);
     subjectButtonsDiv.appendChild(btn);
   });
 }
@@ -2697,23 +2686,17 @@ searchBox.addEventListener("input", () => {
   subjectButtonsDiv.innerHTML = "";
   pdfButtonsDiv.innerHTML = "";
 
-  if (!query) return;
+  if (!query) return; // if empty, clear results
 
   Object.keys(data).forEach(year => {
     Object.keys(data[year]).forEach(branch => {
       Object.keys(data[year][branch]).forEach(subject => {
-
         if (subject.toLowerCase().includes(query)) {
-
           const btn = document.createElement("button");
           btn.textContent = `${subject} (${year} - ${branch})`;
-
-          // When clicking search result → Load portions (not PDFs directly)
-          btn.onclick = () => loadportions(year, branch, subject);
-
+          btn.onclick = () => loadPDFs(year, branch, subject);
           subjectButtonsDiv.appendChild(btn);
         }
-
       });
     });
   });
@@ -2721,11 +2704,10 @@ searchBox.addEventListener("input", () => {
 
 
 
-
-function loadPDFs(year, branch, subject,portion) {
-  // subjectButtonsDiv.innerHTML = "";
+function loadPDFs(year, branch, subject) {
+  subjectButtonsDiv.innerHTML = "";
   pdfButtonsDiv.innerHTML = "";
-  data[year][branch][subject][portion].forEach(pdf => {
+  data[year][branch][subject].forEach(pdf => {
     const wrapper = document.createElement("div");
 
 const downloadBtn = document.createElement("button");
@@ -2752,7 +2734,6 @@ downloadBtn.onclick = () => {
     wrapper.classList.add("download-btns");
   });
 }
-
 
 // Close Modal
 closeModal.onclick = () => {
