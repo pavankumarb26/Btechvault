@@ -2832,7 +2832,7 @@ const data = {
     }
   },
 
-  "3st Year": {
+  "3rd Year": {
     "CSE": {
       "DWDM(Data Warehousing and Data Mining)": {
         "Mid-I Portion": [
